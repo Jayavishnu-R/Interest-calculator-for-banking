@@ -8,7 +8,7 @@
 
 # can create a new user as well as login a new user
 
-<img width="185" alt="image" src="https://github.com/Jayavishnu14/Interest-calculator-for-banking/blob/main/images/3.jpg"> <img width="185" alt="image" src="https://github.com/Jayavishnu14/Interest-calculator-for-banking/blob/main/images/2.jpg">
+<img width="185" alt="image" src="https://github.com/Jayavishnu-R/Interest-calculator-for-banking/blob/main/images/3.jpg"> <img width="185" alt="image" src="https://github.com/Jayavishnu-R/Interest-calculator-for-banking/blob/main/images/2.jpg">
 <img width="185" alt="image" src="https://github.com/Jayavishnu-R/Interest-calculator-for-banking/blob/main/images/6.jpg">
 <img width="185" alt="image" src="https://github.com/Jayavishnu-R/Interest-calculator-for-banking/blob/main/images/5.jpg">
 <img width="185" alt="image" src="https://github.com/Jayavishnu-R/Interest-calculator-for-banking/blob/main/images/7.jpg">
